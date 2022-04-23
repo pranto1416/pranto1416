@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranto1416
 - 👀 I’m interested in game development and game design
-- 🌱 I’m currently learning unity 3d
+- 🌱 I’m currently learning unity 3d, unreal and maya
 - 📫 For contract - 'pranto1416@gmail.com'
 
 <!---
