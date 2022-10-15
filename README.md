@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranto
-- 👀 I’m interested in 3d Level Design and Game Development
+- 👀 I’m interested in 3d Level Design and Game Design
 - 🌱 I’m currently learning unreal engine
 - 📫 For contract - 'pranto1416@gmail.com'
 
