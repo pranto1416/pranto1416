@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Pranto
-- 👀 I’m interested in 3d Level Design and Game Design
-- 🌱 I’m currently learning unreal engine
+- 👋 Hi, This is Pranto
+- 👀 interested in 3d Level Design and Game Design
+- 🌱 currently working in Sleepy Penguin Studio as a level designer
 - 📫 For contract - 'pranto1416@gmail.com'
 
 <!---
