@@ -1,6 +1,6 @@
 - 👋 Hi, This is Pranto
 - 👀 interested in 3d Level Design and Game Design
-- 🌱 currently working in Sleepy Penguin Studio as a Level Dssigner
+- 🌱 Off to build immersive stuffs and merge with real world
 - 📫 For contract - 'pranto1416@gmail.com'
 
 <!---
